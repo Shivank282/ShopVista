@@ -35,7 +35,7 @@ Version Control (Optional)	Git
 
 Download or Clone the Repository
 
-git clone https://github.com/yourusername/shopvista.git
+[git clone https://github.com/yourusername/shopvista.git](https://github.com/Shivank282/shopvista.git)
 
 
 Navigate to the Project Directory
